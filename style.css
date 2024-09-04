@@ -92,3 +92,9 @@ encapsulated in the div - about <body class="about">
     text-align: center;
 
 }
+
+table {
+    border-collapse:collapse;
+    border-color: rgb(8, 54, 56);
+    border-width: medium;
+}
